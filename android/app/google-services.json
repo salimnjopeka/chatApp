@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087621037558",
+    "project_id": "flashchat-d77e3",
+    "storage_bucket": "flashchat-d77e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087621037558:android:e8d45cb2706c86a1e29bd7",
+        "android_client_info": {
+          "package_name": "com.salim.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087621037558-2jrfdbbnkb6jvcfg8uqbfq24rnfd94bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpYtc8ZJwlTK_6WI8zyoC3uhvvSA27Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087621037558-2jrfdbbnkb6jvcfg8uqbfq24rnfd94bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
